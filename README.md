@@ -4,7 +4,7 @@
 
 ---
 
-## 📺 ==Favorite Series & Anime==
+## 📺 Favorite Series & Anime
 
 - **Naruto Shippuden** 
 - **Jujutsu Kaisen** 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🎬 ==Favorite Movie Series==
+## 🎬 Favorite Movie Series
 
 - **John Wick Series**  
 - **Spider-Man Trilogy (Tobey Maguire)**  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎵 ==My Hobbies==
+## 🎵 My Hobbies
 
 ✅ Playing **guitar**  
 ✅ Learning **piano**  
